@@ -4,7 +4,7 @@ Turn a photo or illustration into a bead pattern you can plan, check, and make.
 
 [Create a Perler bead pattern from an image](https://www.masterthepixel.com/create)
 
-![Cat sample showing source photo, bead preview, grid dimensions, and palette controls](./images/product.png)
+![Cat sample showing source photo, bead preview, grid dimensions, and palette controls](./product.png)
 
 ## Choose the details worth keeping
 
